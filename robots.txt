@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fitiduhu.github.io/sitemap/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/RmW/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/bqG/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/RpY/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/Fbe/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/ilf/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/Hyp/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/OMA/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/mEA/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/iDQ/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/Xwn/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/Hij/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/xwa/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/uEb/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/xmJ/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/ZTi/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/KUv/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/lqj/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/KwJ/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/dEZ/sitemap_index.fitiduhu
+Sitemap: https://fitiduhu.github.io/QkW/sitemap_index.fitiduhu
